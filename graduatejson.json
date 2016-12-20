@@ -1,0 +1,212 @@
+[
+  {
+    "State": "JK",
+    "Graduate": 692484,
+    "Female": 426555,
+    "Male": 265929
+  },
+  {
+    "State": "HP",
+    "Graduate": 517101,
+    "Female": 293449,
+    "Male": 223652
+  },
+  {
+    "State": "PB",
+    "Graduate": 1919669,
+    "Female": 960456,
+    "Male": 959213
+  },
+  {
+    "State": "CH",
+    "Graduate": 206036,
+    "Female": 111494,
+    "Male": 94542
+  },
+  {
+    "State": "UK",
+    "Graduate": 1002397,
+    "Female": 568963,
+    "Male": 433434
+  },
+  {
+    "State": "HY",
+    "Graduate": 1994600,
+    "Female": 1183849,
+    "Male": 810751
+  },
+  {
+    "State": "DL",
+    "Graduate": 2918192,
+    "Female": 1636077,
+    "Male": 1282115
+  },
+  {
+    "State": "RJ",
+    "Graduate": 3526541,
+    "Female": 2461922,
+    "Male": 1064619
+  },
+  {
+    "State": "UP",
+    "Graduate": 10898205,
+    "Female": 7086446,
+    "Male": 3811759
+  },
+  {
+    "State": "BR",
+    "Graduate": 3235648,
+    "Female": 2471458,
+    "Male": 764190
+  },
+  {
+    "State": "SK",
+    "Graduate": 42848,
+    "Female": 24812,
+    "Male": 18036
+  },
+  {
+    "State": "AR",
+    "Graduate": 86937,
+    "Female": 58823,
+    "Male": 28114
+  },
+  {
+    "State": "NL",
+    "Graduate": 165044,
+    "Female": 96513,
+    "Male": 68531
+  },
+  {
+    "State": "MN",
+    "Graduate": 294135,
+    "Female": 178447,
+    "Male": 115688
+  },
+  {
+    "State": "MZ",
+    "Graduate": 95396,
+    "Female": 56437,
+    "Male": 38959
+  },
+  {
+    "State": "TR",
+    "Graduate": 165796,
+    "Female": 107556,
+    "Male": 58240
+  },
+  {
+    "State": "ML",
+    "Graduate": 154962,
+    "Female": 77020,
+    "Male": 77942
+  },
+  {
+    "State": "AS",
+    "Graduate": 1130319,
+    "Female": 718327,
+    "Male": 411992
+  },
+  {
+    "State": "WB",
+    "Graduate": 5355274,
+    "Female": 3463977,
+    "Male": 1891297
+  },
+  {
+    "State": "JH",
+    "Graduate": 1532170,
+    "Female": 1039975,
+    "Male": 492195
+  },
+  {
+    "State": "OD",
+    "Graduate": 1965889,
+    "Female": 1303987,
+    "Male": 661902
+  },
+  {
+    "State": "CG",
+    "Graduate": 1216588,
+    "Female": 799269,
+    "Male": 417319
+  },
+  {
+    "State": "MP",
+    "Graduate": 3591389,
+    "Female": 2311433,
+    "Male": 1279956
+  },
+  {
+    "State": "GJ",
+    "Graduate": 3471795,
+    "Female": 2083498,
+    "Male": 1388297
+  },
+  {
+    "State": "DD",
+    "Graduate": 13349,
+    "Female": 8774,
+    "Male": 4575
+  },
+  {
+    "State": "DN",
+    "Graduate": 21779,
+    "Female": 13880,
+    "Male": 7899
+  },
+  {
+    "State": "MH",
+    "Graduate": 9505517,
+    "Female": 5730823,
+    "Male": 3774694
+  },
+  {
+    "State": "AP",
+    "Graduate": 6307880,
+    "Female": 4125374,
+    "Male": 2182506
+  },
+  {
+    "State": "KA",
+    "Graduate": 4496451,
+    "Female": 2799580,
+    "Male": 1696871
+  },
+  {
+    "State": "GA",
+    "Graduate": 152131,
+    "Female": 77010,
+    "Male": 75121
+  },
+  {
+    "State": "LD",
+    "Graduate": 4288,
+    "Female": 2682,
+    "Male": 1606
+  },
+  {
+    "State": "KL",
+    "Graduate": 2662074,
+    "Female": 1187364,
+    "Male": 1474710
+  },
+  {
+    "State": "TN",
+    "Graduate": 6073079,
+    "Female": 3495384,
+    "Male": 2577695
+  },
+  {
+    "State": "PY",
+    "Graduate": 154784,
+    "Female": 87072,
+    "Male": 67712
+  },
+  {
+    "State": "AN",
+    "Graduate": 24580,
+    "Female": 13832,
+    "Male": 10748
+  }
+]
